@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mcxolani/mapmyfleet-api/issues"
   },
-  "homepage": "https://github.com/mcxolani/mapmyfleet-api#readme"
+  "homepage": "https://github.com/mcxolani/mapmyfleet-api#readme",
+  "dependencies": {
+    "cors": "^2.8.1"
+  }
 }
